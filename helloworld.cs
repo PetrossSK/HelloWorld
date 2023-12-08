@@ -13,6 +13,7 @@ namespace HelloWorldcode
         {
             global::System.Console.WriteLine("Hello World!");
             global::System.Console.WriteLine("GitHub is working!");
+            global::System.Console.WriteLine("Pull test");
             
         }
     }
